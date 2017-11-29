@@ -1,0 +1,7 @@
+@import 'dist/ionic.app.wxss';
+
+text{
+    font-family: MicroSoft Yahei;
+    font-size: 24rpx;
+    color: #666;
+}
